@@ -1,5 +1,5 @@
 import { createGlobalStyle } from "styled-components";
-
+ 
 createGlobalStyle`
     :root {
         --greyColor: #A2A19E;

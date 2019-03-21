@@ -12,7 +12,7 @@ const stateLink = withClientState({
     typeDefs,
     defaults,
     resolvers
-});
+}); 
 
 const client = new ApolloClient({
     cache,
